@@ -26,7 +26,7 @@ HTML5, CSS3 ve Bootstrap 5 framework'ü kullanılarak geliştirilmiş modern, ta
 ## 🚀 Canlı Demo
 
 Projenin canlı versiyonuna Netlify üzerinden erişebilirsiniz:
-[Awesome Blog Portal Live Preview](awesome-blog-portal.netlify.app) 
+[Awesome Blog Portal Live Preview](https://awesome-blog-portal.netlify.app/) 
 
 ---
 
